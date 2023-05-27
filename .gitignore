@@ -1,0 +1,43 @@
+# Arquivos gerados automaticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual (opcional, se você estiver usando um ambiente virtual)
+venv/
+env/
+
+# Arquivos de configuração
+instance/
+*.ini
+
+# Logs
+*.log
+
+# Arquivos de banco de dados
+*.db
+*.sqlite
+
+# Arquivos estáticos gerados
+static/uploads/
+
+# Dependências geradas pelo pip
+lib/
+lib64/
+bin/
+include/
+Scripts/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Arquivos de ambiente
+.env
+
+# Outros arquivos específicos do Flask
+instance/
+
+# Ignore qualquer arquivo específico do seu projeto que você não deseja versionar
+
